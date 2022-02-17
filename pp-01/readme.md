@@ -24,11 +24,11 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name: Cinzel Medium
+     - URL: https://fonts.google.com/specimen/Cinzel?query=cinzel#standard-styles
    Typeface Two:
-     - Name:
-     - URL:
+     - Name: Fauna One Regular
+     - URL: https://fonts.google.com/specimen/Fauna+One?query=fauna#standard-styles
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
