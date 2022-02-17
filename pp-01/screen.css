@@ -7,3 +7,13 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+h1 {
+  font-size: 32pt;
+  font-family: 'Cinzel', serif;
+}
+
+p {
+  font-size: 1 em;
+  font-family: 'Fauna One', serif;
+}
