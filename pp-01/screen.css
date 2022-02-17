@@ -8,11 +8,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 html {
-  line-height: 1;
+  line-height: 1.8;
 }
 h1 {
   font-size: 32pt;
   font-family: 'Cinzel', serif;
+
 }
 
 p {
